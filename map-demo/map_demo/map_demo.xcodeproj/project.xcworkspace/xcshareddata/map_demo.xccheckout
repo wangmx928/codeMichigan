@@ -5,20 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-<<<<<<< Updated upstream
-	<string>02A3C1A8-9B8C-4C4B-A642-49596CA172CF</string>
-=======
-	<string>2EB3BCDE-9996-4842-9F6E-C94393437B35</string>
->>>>>>> Stashed changes
+	<string>1BE3A2F8-95A0-4154-8917-401B4022BC02</string>
 	<key>IDESourceControlProjectName</key>
-	<string>iphone_map</string>
+	<string>map_demo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>C12C94D90132707F73E2D6E7DDD073F1DCFC8EA7</key>
 		<string>https://github.com/wangmx928/codeMichigan.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>map-demo/iphone_map/iphone_map.xcodeproj</string>
+	<string>map-demo/map_demo/map_demo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>C12C94D90132707F73E2D6E7DDD073F1DCFC8EA7</key>
