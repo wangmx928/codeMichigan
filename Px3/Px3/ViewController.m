@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "Px3-Swift.h" //project name-Swift to import swift
-
+#import "DetailViewController.h"
 
 @class Vendor;
 @interface ViewController ()
@@ -66,7 +66,8 @@
 
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     if ([segue.identifier isEqualToString:@"detailSegue"]) {
-        
+        DetailViewController *vc = (DetailViewController *)segue.destinationViewController;
+        vc.vendor = self.arrayOfVendors[[self.VendorTable indexPathForSelectedRow].row];
     }
 }
 

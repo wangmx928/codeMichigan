@@ -18,6 +18,9 @@
 		88702F8419E085700002FD14 /* sports.png in Resources */ = {isa = PBXBuildFile; fileRef = 88702F8319E085700002FD14 /* sports.png */; };
 		88702F8619E088380002FD14 /* automotive.png in Resources */ = {isa = PBXBuildFile; fileRef = 88702F8519E088380002FD14 /* automotive.png */; };
 		88702F8D19E08E420002FD14 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88702F8C19E08E420002FD14 /* DetailViewController.m */; };
+		88702F9119E0C75F0002FD14 /* website.png in Resources */ = {isa = PBXBuildFile; fileRef = 88702F9019E0C75F0002FD14 /* website.png */; };
+		88702F9319E0C84F0002FD14 /* phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 88702F9219E0C84F0002FD14 /* phone.png */; };
+		88702F9519E0CA3A0002FD14 /* address.png in Resources */ = {isa = PBXBuildFile; fileRef = 88702F9419E0CA390002FD14 /* address.png */; };
 		88EC1BEF19DF7CA600AF37B0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 88EC1BEE19DF7CA600AF37B0 /* main.m */; };
 		88EC1BF219DF7CA600AF37B0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 88EC1BF119DF7CA600AF37B0 /* AppDelegate.m */; };
 		88EC1BF519DF7CA600AF37B0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88EC1BF419DF7CA600AF37B0 /* ViewController.m */; };
@@ -51,6 +54,9 @@
 		88702F8519E088380002FD14 /* automotive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = automotive.png; sourceTree = "<group>"; };
 		88702F8B19E08E420002FD14 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		88702F8C19E08E420002FD14 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		88702F9019E0C75F0002FD14 /* website.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = website.png; sourceTree = "<group>"; };
+		88702F9219E0C84F0002FD14 /* phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phone.png; sourceTree = "<group>"; };
+		88702F9419E0CA390002FD14 /* address.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = address.png; sourceTree = "<group>"; };
 		88EC1BE919DF7CA600AF37B0 /* Px3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Px3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88EC1BED19DF7CA600AF37B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88EC1BEE19DF7CA600AF37B0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -116,6 +122,9 @@
 				88702F8C19E08E420002FD14 /* DetailViewController.m */,
 				88EC1BF619DF7CA600AF37B0 /* Main.storyboard */,
 				88EC1BF919DF7CA600AF37B0 /* Images.xcassets */,
+				88702F9419E0CA390002FD14 /* address.png */,
+				88702F9219E0C84F0002FD14 /* phone.png */,
+				88702F9019E0C75F0002FD14 /* website.png */,
 				88702F8519E088380002FD14 /* automotive.png */,
 				88702F8319E085700002FD14 /* sports.png */,
 				88702F8119E082780002FD14 /* personal.png */,
@@ -238,9 +247,12 @@
 			files = (
 				88702F7A19E078280002FD14 /* business.png in Resources */,
 				88EC1BF819DF7CA600AF37B0 /* Main.storyboard in Resources */,
+				88702F9519E0CA3A0002FD14 /* address.png in Resources */,
 				88702F8219E082780002FD14 /* personal.png in Resources */,
 				88702F7C19E0795D0002FD14 /* food.png in Resources */,
 				88702F8419E085700002FD14 /* sports.png in Resources */,
+				88702F9119E0C75F0002FD14 /* website.png in Resources */,
+				88702F9319E0C84F0002FD14 /* phone.png in Resources */,
 				88702F7E19E07BAF0002FD14 /* shopping.png in Resources */,
 				88702F7819E075A30002FD14 /* home.png in Resources */,
 				88EC1BFD19DF7CA600AF37B0 /* LaunchScreen.xib in Resources */,
